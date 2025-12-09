@@ -81,7 +81,7 @@ struct SettingsView: View {
                                     .padding(.top, 16)
                                     
                                     Slider(value: $readingGoal, in: 1...100, step: 1)
-                                        .tint(.appYellow)
+                                        .accentColor(.appYellow)
                                         .padding(.horizontal)
                                         .padding(.bottom, 16)
                                         .onChange(of: readingGoal) { newValue in
