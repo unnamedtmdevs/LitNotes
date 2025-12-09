@@ -1,8 +1,6 @@
 //
 //  OnboardingView.swift
-//  LitNotes
-//
-//  Created by Simon Bakhanets on 09.12.2025.
+//  KanLit Notes
 //
 
 import SwiftUI
@@ -14,7 +12,7 @@ struct OnboardingView: View {
     let pages: [OnboardingPage] = [
         OnboardingPage(
             icon: "book.fill",
-            title: "Welcome to LitNotes",
+            title: "Welcome to KanLit Notes",
             description: "Your personal literary companion for discovering, reading, and noting your favorite books",
             color: .appYellow
         ),

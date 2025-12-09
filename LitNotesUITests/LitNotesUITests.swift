@@ -1,13 +1,11 @@
 //
 //  LitNotesUITests.swift
-//  LitNotesUITests
-//
-//  Created by Simon Bakhanets on 09.12.2025.
+//  KanLit Notes UI Tests
 //
 
 import XCTest
 
-final class LitNotesUITests: XCTestCase {
+final class KanLitNotesUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

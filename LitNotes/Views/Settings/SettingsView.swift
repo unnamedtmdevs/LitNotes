@@ -1,8 +1,6 @@
 //
 //  SettingsView.swift
-//  LitNotes
-//
-//  Created by Simon Bakhanets on 09.12.2025.
+//  KanLit Notes
 //
 
 import SwiftUI
@@ -102,7 +100,7 @@ struct SettingsView: View {
                             
                             SettingsRow(
                                 icon: "info.circle.fill",
-                                title: "LitNotes",
+                                title: "KanLit Notes",
                                 subtitle: "Version 1.0.0",
                                 showChevron: false
                             )

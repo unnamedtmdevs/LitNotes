@@ -1,13 +1,11 @@
 //
 //  LitNotesUITestsLaunchTests.swift
-//  LitNotesUITests
-//
-//  Created by Simon Bakhanets on 09.12.2025.
+//  KanLit Notes UI Tests
 //
 
 import XCTest
 
-final class LitNotesUITestsLaunchTests: XCTestCase {
+final class KanLitNotesUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,13 +1,11 @@
 //
 //  LitNotesTests.swift
-//  LitNotesTests
-//
-//  Created by Simon Bakhanets on 09.12.2025.
+//  KanLit Notes Tests
 //
 
 import Testing
 
-struct LitNotesTests {
+struct KanLitNotesTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

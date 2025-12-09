@@ -1,8 +1,6 @@
 //
 //  NoteEditorView.swift
-//  LitNotes
-//
-//  Created by Simon Bakhanets on 09.12.2025.
+//  KanLit Notes
 //
 
 import SwiftUI
